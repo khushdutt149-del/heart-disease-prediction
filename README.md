@@ -2,8 +2,6 @@
 
 A Flask web application that predicts the likelihood of heart disease from a patient's clinical data, using a trained Support Vector Classifier (SVC) machine learning model. Deployable both locally and as a serverless function on Vercel, with Docker support for platforms like Railway.
 
-**Live demo:** [heart-disease-prediction-ruddy-seven.vercel.app](https://heart-disease-prediction-ruddy-seven.vercel.app)
-
 ---
 
 ## 🩺 Overview
